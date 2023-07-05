@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-
+![portfolio-imagem](https://github.com/marciahora/portfolio/assets/73114699/be5fd817-ab18-4a22-90d5-8e824d8b0a42)
 
 ## Ferramentas utilizadas:
 
